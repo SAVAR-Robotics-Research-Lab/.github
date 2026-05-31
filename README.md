@@ -1,2 +1,3 @@
-# .github
-Breathing Life in Every Movement  |  Researching Autonomy, Intelligence, and Mobility
+<p align="center">
+  <img src="logo/SAVAR-Logo-Color.jpg" alt="SAVAR Logo" width="1080">
+</p>
